@@ -1,0 +1,4 @@
+#Sun Jun 16 17:02:27 BRT 2019
+base.0=/home/ian/aplicativos_flutter/login_signup/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
